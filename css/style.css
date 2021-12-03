@@ -1,0 +1,90 @@
+body{
+  background-color: #D9CAB3;
+  font-family:'Merriweather',serif;
+  text-align: left;
+  padding-left: 20px;
+
+}
+h1{
+  font-size:90px;
+  font-family:'Sacramento',cursive
+
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  margin: auto;
+}
+h3{
+  font-size: 2rem;
+}
+ul {
+
+text-align: left;
+list-style: inside;
+}
+hr{
+  border-style: dashed solid;
+  border-color: grey;
+  border-width: 5px;
+  height: 0;
+  width: 5%
+
+}
+p{
+  font-size: 30px;
+}
+
+.Top-container{
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  text-align: center;
+}
+.career-obj{
+  text-align: left;
+  font-size: 2rem;
+}
+.experience{
+  position: relative;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.eng{
+  position: absolute;
+  right: 200px;
+  bottom: 200px;
+  Top: 200px;
+}
+.botom-cloud{
+  position:absolute;
+  left:300px;
+  top: 100px;
+}
+
+.project{
+position: relative;
+
+}
+
+.experience{
+  position: relative;
+  padding-top: 100px;
+}
+
+.table{
+  font-size: 16px;
+}
+.ecom{
+  position: absolute;
+  right: 200px;
+
+}
